@@ -17,3 +17,8 @@ This project is a clone of the popular travel booking website Booking.com. The s
 - **Shadcn UI**: A UI framework for React applications, providing pre-styled components and layouts for building modern user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for quickly building custom designs.
 - **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+
+## Deployment
+
+The project is deployed on [Vercel](https://vercel.com/). You can view the live demo [here](#).
+
