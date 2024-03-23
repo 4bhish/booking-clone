@@ -19,7 +19,7 @@ async function SearchPage({ searchParams }: Props) {
   if (!searchParams.url) return notFound();
 
   const results = await fetchResults(searchParams);
-
+  console.log(results)
   if (!results) return <div>No results...</div>;
 
   return (
